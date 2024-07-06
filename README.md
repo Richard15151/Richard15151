@@ -3,7 +3,6 @@
 - 👨🏻‍🎓 Sou estudante de Desenvolvimento de Sistemas do SENAI
 - 📚 Estou estudando: Python, Java, Javascript, HTML e CSS
 - 👨🏻‍💻 Futuro Desenvolvedor Full Stack!
-- 😄 Pronouns: ele/dele
 ##
 <div>
   <a href="https://github.com/Richard15151">
