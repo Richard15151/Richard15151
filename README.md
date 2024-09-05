@@ -1,8 +1,8 @@
 ## Olá! eu sou o Richard 👋
 
-- 👨🏻‍🎓 Sou estudante de Desenvolvimento de Sistemas do SENAI
-- 📚 Estou estudando: Python, Java, Javascript, HTML e CSS
-- 👨🏻‍💻 Futuro Desenvolvedor Full Stack!
+- 👨🏻‍🎓 Sou estudante de Desenvolvimento de Sistemas no SENAI
+- 📚 Estou estudando: Python, Javascript, HTML e CSS no Curso Técnico!
+- 👨🏻‍💻 Futuro Desenvolvedor Back-end!
 ##
 <div>
   <a href="https://github.com/Richard15151">
