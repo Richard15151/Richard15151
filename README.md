@@ -2,7 +2,7 @@
 
 - 👨🏻‍🎓 Sou estudante de Desenvolvimento de Sistemas no SENAI
 - 📚 Estou estudando: Python, Javascript, HTML e CSS no Curso Técnico!
-- 👨🏻‍💻 Futuro Desenvolvedor Back-end!
+- 👨🏻‍💻 Futuro DEV!
 ##
 <div>
   <a href="https://github.com/Richard15151">
