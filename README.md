@@ -1,7 +1,7 @@
 ## Olá! eu sou o Richard 👋
 
 - 👨🏻‍🎓 Sou estudante de Desenvolvimento de Sistemas no SENAI
-- 📚 Estou estudando: Python, Javascript, HTML e CSS e Bootstrap.
+- 📚 Estou estudando: Python, SLQ, Flask, Javascript, HTML e CSS e Bootstrap.
 - 👨🏻‍💻 Futuro DEV!
 ##
 <div>
