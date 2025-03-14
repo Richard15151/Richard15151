@@ -1,7 +1,7 @@
 ## Olá! eu sou o Richard 👋
 
 - 👨🏻‍🎓 Sou estudante de Desenvolvimento de Sistemas no SENAI
-- 📚 Estou estudando: Python, SLQ, Flask, Javascript, HTML e CSS e Bootstrap.
+- 📚 Estou estudando: Python, SLQ, MYSQL, Flask, Javascript, HTML e CSS e Bootstrap.
 - 👨🏻‍💻 Futuro DEV!
 ##
 <div>
@@ -15,6 +15,7 @@
   <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Richard-Javascript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
   <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
 </div>
     
