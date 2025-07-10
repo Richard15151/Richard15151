@@ -36,5 +36,5 @@
 ##
 
 ### Commits:
-![Snake animation](https://github.com/Richard15151/Richard15151/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/Richard15151/Richard15151.git/blob/output/github-contribution-grid-snake.svg)
 
