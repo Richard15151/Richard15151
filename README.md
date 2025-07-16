@@ -32,3 +32,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Richard15151&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard15151&layout=compact&langs_count=16&theme=dark"/>
 </div>
+    
+##
+    
+### Commits:
+![snake gif](https://github.com/Richard15151/Richard15151/blob/output/github-contribution-grid-snake.gif)
