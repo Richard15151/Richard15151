@@ -11,11 +11,13 @@
 
 ### 👨‍💻 Sobre mim:
 
-Sou Técnico em Desenvolvimento de Sistemas pelo SENAI, uma formação ampla, que me proporcionou conhecimento sobre todo o ciclo de vida de um software, atualmente foco em Back-End.
+Sou Técnico em Desenvolvimento de Sistemas pelo SENAI e atualmente curso Engenharia de Software na UNINTER, com foco em desenvolvimento Back-end e construção de aplicações bem estruturadas.
 
-Possuo experiência acadêmica e prática no desenvolvimento de aplicações web, APIs e sistemas full stack, com uso de lógica de programação, estruturação de código, integração entre sistemas e boas práticas de desenvolvimento. Tenho familiaridade com o front-end e com banco de dados, o que contribui para uma comunicação eficiente entre as camadas da aplicação.
+Tenho experiência acadêmica e prática no desenvolvimento de aplicações web, APIs REST e sistemas full stack, utilizando tecnologias como Python, Flask, Java, Spring Boot, JavaScript e bancos de dados relacionais. Ao longo dos projetos, apliquei conceitos como lógica de programação, arquitetura MVC, organização modular, integração entre sistemas, modelagem de banco de dados e boas práticas de desenvolvimento, sempre buscando código limpo, reutilizável e de fácil manutenção.
 
-Meu objetivo profissional é atuar como Desenvolvedor Back-end Júnior, contribuindo para a construção de soluções robustas, escaláveis e bem estruturadas, com foco em qualidade, desempenho e aprendizado contínuo.
+Também possuo familiaridade com o front-end e com a integração entre diferentes camadas da aplicação, o que contribui para uma visão mais completa do desenvolvimento de software.
+
+Meu objetivo profissional é atuar com desenvolvimento Back-end, contribuindo para a construção de soluções robustas, escaláveis e bem estruturadas, enquanto evoluo tecnicamente em áreas como engenharia de software, arquitetura de sistemas e desenvolvimento com Java e Python.
 
 <br>
 
@@ -33,9 +35,11 @@ Meu objetivo profissional é atuar como Desenvolvedor Back-end Júnior, contribu
 
 </td>
 
-<td width="40%" align="center" valign="top">
+<td width="40%" align="center" valign="top" display="flex">
 
-<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzAxNm8xbGs1b2kxanFnZWN1M3MzYm16MG4yNjdiZWE4eXd4bzY0NyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif" width="100%" alt="gif animado de programação"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGlyd2QzbXNpcjZwb2ZvZnJ5dXc2OGFiaThoejZoNjU0aTZyb2FsbiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dHM/3SL41WtN5l9DNdPJGs/giphy.gif" width="100%" alt="gif animado de programação"/>
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMW4wNmZzajNnZjhzN21xZGl0dXp3amJsbDhoM2dsYmN1MW82cGNqcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/PvvSfSDFoAL5e/giphy.gif"
+  width="100%" alt="gif animado de programação"/>
 
 </td>
 </tr>
@@ -47,8 +51,8 @@ Meu objetivo profissional é atuar como Desenvolvedor Back-end Júnior, contribu
 ## 📊 Estatísticas do GitHub:
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Richard15151&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard15151&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Richard15151&show_icons=true&theme=tokyonight&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Richard15151&layout=compact&theme=tokyonight" />
 </div>
 
 ---
